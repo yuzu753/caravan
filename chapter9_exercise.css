@@ -62,14 +62,10 @@ main{
 }
 
 @media screen and (max-width: 768px){
- main{
- width: 90%;
- }
+
  .box{
  width: 90%;
- padding: 10px;
- margin: 0 auto;
- float: none;
+ margin: 0 5%;
  }
  .box:first-child{
  margin-top: 50px 0 0 0;
